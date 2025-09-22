@@ -1,0 +1,14 @@
+numpy==1.24.4
+pandas==1.5.3
+matplotlib==3.6.3
+scikit-learn==1.2.2
+joblib==1.2.0
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+gradio==3.40.1
+stable-baselines3==2.0.0
+gymnasium==0.28.1
+transformers==4.33.2
+ctransformers==0.6.4
+pytest==7.3.2
+flake8==6.1.0

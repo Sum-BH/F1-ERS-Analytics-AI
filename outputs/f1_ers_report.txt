@@ -1,0 +1,10 @@
+🏎️ F1 ERS Deployment Report — Monza
+
+- Laps: 6
+- Fastest lap: 3.0 → 95.63s
+- Best ERS efficiency: Lap 3.0 (0.60 s/MJ)
+
+Generate a short narrative summary.
+
+---
+ During the Monza Grand Prix, the F1 race engineer deployed the ERS to lap 3.0 at a rate of 95.63 seconds, achieving the fastest lap of the race and setting the best ERS efficiency at 0.60 s/MJ.
